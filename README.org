@@ -4,12 +4,12 @@
     #+begin_html
     <img src="https://unpkg.com/simple-icons/icons/mastodon.svg" align="center" width="2%" height="2%" alt="Mastodon">
     #+end_html
-     [[https://layer8.space/@tauin][ㅤㅤlayer8.space/@tauin]]
+    [[https://layer8.space/@tauin][ㅤㅤlayer8.space/@tauin]]
   - 
     #+begin_html
     <img src="https://unpkg.com/simple-icons/icons/matrix.svg" align="center" width="2%" height="2%" alt="Matrix"> 
     #+end_html 
-    [[https://matrix.to/#/@tauin:the-apothecary.club][@tauin:the-apothecary.club]]
+    [[https://matrix.to/#/@tauin:the-apothecary.club][tauin:the-apothecary.club]]
   - 
     #+begin_html
     <img src="https://unpkg.com/simple-icons/icons/gitlab.svg" align="center" width="2%" height="2%" alt="Gitlab"> 
