@@ -2,4 +2,5 @@
 Links: 
 🐘 [[https://layer8.space/web/@tauin][Mastodon]]
 
+#+ATTR_ORG: :width 500
 [[file:./matrix.svg]]
