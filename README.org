@@ -2,7 +2,6 @@
 Links: 
 🐘 [[https://layer8.space/web/@tauin][Mastodon]]
 
-#+attr_html: width="1px"
-#+ATTR_ORG: width="1"
-#+attr_latex: width="1px"
-[[file:./matrix.svg]]
+#+BEGIN_HTML
+<img src="https://github.com/tauin/tauin/blob/main/matrix.svg" width="50%"> 
+#+END_HTML
