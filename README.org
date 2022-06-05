@@ -1,6 +1,6 @@
 ** Little shit from Australia, feel free to browse around 
-**** Links: 
-  - 🐘 [[https://layer8.space/web/@tauin][Mastodon]]
+** Links: 
+  1. 🐘 [[https://layer8.space/web/@tauin][Mastodon]]
   #+begin_src emacs-lisp
   (message "Hello world!")
   #+end_src
