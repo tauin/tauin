@@ -3,5 +3,5 @@ Links:
 🐘 [[https://layer8.space/web/@tauin][Mastodon]]
 
 #+BEGIN_HTML
-<img src="https://github.com/tauin/tauin/blob/main/matrix.svg" width="3%"> 
+<img src="https://github.com/tauin/tauin/blob/main/matrix.svg" width="2%"> 
 #+END_HTML
