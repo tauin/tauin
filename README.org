@@ -2,7 +2,7 @@
 Links: 
 🐘 [[https://layer8.space/web/@tauin][Mastodon]]
 
-#+attr_html: :width 1px
-#+ATTR_ORG: :width 1
-#+attr_latex: :width 1px
+#+attr_html: width="1px"
+#+ATTR_ORG: width="1"
+#+attr_latex: width="1px"
 [[file:./matrix.svg]]
