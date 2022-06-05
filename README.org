@@ -2,21 +2,21 @@
 *** Links:
   - 
     #+begin_html
-    <img src="https://unpkg.com/simple-icons/icons/mastodon.svg" width="2%" height="2%" alt="Mastodon">
+    <img src="https://unpkg.com/simple-icons/icons/mastodon.svg" align="center" width="2%" height="2%" alt="Mastodon">
     #+end_html
      [[https://layer8.space/@tauin][ㅤㅤlayer8.space/@tauin]]
   - 
     #+begin_html
-    <img src="https://unpkg.com/simple-icons/icons/matrix.svg" width="2%" height="2%" alt="Matrix"> 
+    <img src="https://unpkg.com/simple-icons/icons/matrix.svg" align="center" width="2%" height="2%" alt="Matrix"> 
     #+end_html 
     [[https://matrix.to/#/@tauin:the-apothecary.club][@tauin:the-apothecary.club]]
   - 
     #+begin_html
-    <img src="https://unpkg.com/simple-icons/icons/gitlab.svg" width="2%" height="2%" alt="Matrix"> 
+    <img src="https://unpkg.com/simple-icons/icons/gitlab.svg" align="center" width="2%" height="2%" alt="Gitlab"> 
     #+end_html 
     [[https://gitlab.com/Tauin][~Tauin]]
   - 
     #+begin_html
-    <img src="https://unpkg.com/simple-icons/icons/wikipedia.svg" width="2%" height="2%" alt="Matrix"> 
+    <img src="https://unpkg.com/simple-icons/icons/wikipedia.svg" align="center" width="2%" height="2%" alt="Wikipedia"> 
     #+end_html 
     [[https://en.wikipedia.org/wiki/User:Tauin][Tauin]]
