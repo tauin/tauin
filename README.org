@@ -2,6 +2,6 @@
 **** Links: 
 - 🐘 [[https://layer8.space/web/@tauin][Mastodon]]
 
-#+BEGIN_HTML
+#+BEGIN_HTML -i
 <img src="https://github.com/tauin/tauin/blob/main/matrix.svg" width="2%"> 
 #+END_HTML
