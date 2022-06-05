@@ -1,7 +1,13 @@
 ** Little shit from Australia, feel free to browse around 
-** Links: 
-  1. 🐘 [[https://layer8.space/web/@tauin][Mastodon]]
-  #+begin_src emacs-lisp
-  (message "Hello world!")
-  #+end_src
+*** Links:
+  - 
+    #+begin_html
+    <img src="https://unpkg.com/simple-icons/icons/mastodon.svg" width="2%" height="2%" alt="Mastodon">
+    #+end_html
+     [[https://layer8.space/@tauin][ㅤㅤlayer8.space/@tauin]]
+  - 
+    #+begin_html
+    <img src="https://unpkg.com/simple-icons@7.0.0/icons/matrix.svg" width="2%" height="2%" alt="Matrix"> 
+    #+end_html 
+    [[https://matrix.to/#/@tauin:the-apothecary.club][@tauin:the-apothecary.club]]
 
