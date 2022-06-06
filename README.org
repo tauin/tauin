@@ -7,7 +7,7 @@
     [[https://layer8.space/@tauin][ㅤㅤlayer8.space/@tauin]]
   - 
     #+begin_html
-    <img src="https://unpkg.com/simple-icons/icons/matrix.svg" align="center" width="2%" height="2%" alt="Matrix"> 
+    <img src="https://unpkg.com/simple-icons/icons/matrix.svg" align="center" width="2%" height="2%" alt="Matrix" fill="#1c87c9"> 
     #+end_html 
     [[https://matrix.to/#/@tauin:the-apothecary.club][tauin:the-apothecary.club]]
   - 
