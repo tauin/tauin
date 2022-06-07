@@ -17,7 +17,7 @@
     [[https://gitlab.com/Tauin][Tauin]]
   - 
     #+begin_html
-    <img src="https://unpkg.com/simple-icons/icons/wikipedia.svg" align="center" width="2%" height="2%" alt="Wikipedia"> 
+    <img src="https://unpkg.com/simple-icons/icons/wikipedia.svg" align="center" width="2%" height="2%" alt="Wikipedia" rel="test"> 
     #+end_html 
     [[https://en.wikipedia.org/wiki/User:Tauin][User:Tauin]]
 
